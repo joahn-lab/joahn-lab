@@ -2,7 +2,7 @@
 layout: post
 title:  (sklearn) Linear Regression Prediction Modelling Part 1
 date:   2021-01-08 19:01:35 +0300
-image:  Normdist_regression.png
+image:  ./images/Normdist_regression.png
 use_math: true
 tags:   ML/DL
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  CMIT/MIT 성분의 흡입시 유해성과 폐질환의 인과성 입증 부족?
 date:   2021-01-12 00:01:35 +0300
-image:  gaseup.jpg
+image:  ./images/gaseup.jpg
 use_math: true
 tags:   Life
 ---
