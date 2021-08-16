@@ -1,18 +1,14 @@
 ---
 layout: post
-title: Responsive Images
+title: 아주 오래전 전설처럼 엄마가 살던 섬
 tags:
-- image
+- Travel
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. 
+마치 기념사진 찍듯이, 멈추지 않을 시간을 붙잡아두려는 마음으로 나는 제주도를 찾곤 했다. 이제는 소식이 궁금한 사람들과 차례로 보낸 여행의 시간을 그곳에 묻어두고 이따금 사진첩을 열어보듯 되돌아온 셈이다. 묘하게 변한듯한 제주의 풍경을 둘러보고 뭍으로 돌아갈 때는 나도 어딘가 변해버린 듯한 기분이 든다. 마치 이 섬이 내 삶을 가로지르는 분수령이라도 되는 것처럼, 나는 제주도를 사뭇 비장한 섬으로 받아들이곤 했다.
 
-<img src="https://imgs.xkcd.com/comics/unification.png"/>
+<img src="/media/joahn/0fc675df-7002-4ba2-b88a-ea05a9daef9c/Downloads/jejufilm/000019.JPG"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. 
+사실상 제주는 아열대 기후에 접어들었다. 아열대, 어감이 은밀한 암시 같기도 하고, 풋내기 망고 열매가 영글은 비닐하우스의 유목 같기도 하다. (망고나무는 정작 파주에서도 잘 자란다고 한다.) 그 이름이 무시무시했다면 차라리 싱거웠을지 모른다. 하지만 그 섬의 그을린 돌담은 짐짓 가쁜 숨을 내쉬고 있었고, 한낮의 베란다 티셔츠처럼 축 늘어진 여름은 땡볕을 벼리며 이 땅의 겨울을 아예 몰아낼 기세다. 날이 저물어도 섬의 미열은 가라앉지 않았다. 차창 너머 메마른 야자수 풍경이 바야흐로 우리 불안한 젊음이자 인류 종말의 증거처럼 스쳐 갔다.
 
-<img src="https://imgs.xkcd.com/comics/robots.png"/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. 
-
-<img src="https://imgs.xkcd.com/comics/impostor_syndrome.png"/>
+<img src="/media/joahn/0fc675df-7002-4ba2-b88a-ea05a9daef9c/Downloads/jejufilm/000030(1).JPG"/>
