@@ -1,32 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-
 {% include head.html %}
-{% if page.use_math %}
-  {% include mathjax_support.html %}
-{% endif %}
-    
 <body>
-
-  {% if site.data.settings.google-analytics %}
-  {% include google-analytics.html %}
-  {% endif %}
-
-  {% include header.html %}
-
-  <!-- begin content -->
-  <main class="content" aria-label="Content">
-    {{ content }}
-  </main>
-  <!-- end content -->
-
-  <div class="top ion ion-ios-arrow-up" title="Top"></div>
-
-  {% include search.html %}
-
-  {% include footer.html %}
-
-  {% include javascripts.html %}
+<div class="container">
+  {% include nav.html %}
+  <hr class="stylish"/>
+  {{ content }}
+</div>
+<footer>
+  <hr class="stylish"/>
+  {% include nav.html %}
+  <div>
+    Theme: <a href="https://github.com/abhn/Elementary">Elementary</a>
+    <br/>
+    <a>{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }}
+  </div>
+</footer>
+{% if site.javascript_enabled %}
+  <script src="/assets/main.js"></script>
+{% endif %}
 </body>
-
 </html>

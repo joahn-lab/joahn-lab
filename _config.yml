@@ -1,41 +1,41 @@
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://joahn-lab.github.io" # root address of the site
+title : Elementary - Jekyll Blog Theme
+name: 'Elementary Jekyll Theme'
+description: 'Simple, light weight, responsive jekyll theme for hackers'
 
-
-# Build settings
 markdown: kramdown
-highligher: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-permalink: pretty
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll/tagging
+highlighter: rouge
+javascript_enabled: true
 
-paginate: 5
-paginate_path: "/page/:num"
+featured_posts_title: Unrelated
+featured_posts:
+  - url: '#'
+    title: 'Featured post #1'
+  - url: '#'
+    title: 'Featured post #2'
+  - url: '#'
+    title: 'Featured post #3'
 
+collections:
+  news:
+    title: News
+    default_open: false
+    output: true
+  posts:
+    title: Essays
+    default_open: true
+    output: true
 
-# Pages Path
 defaults:
   - scope:
-      path: '_pages'
+      type: posts
     values:
-      permalink: /:basename:output_ext
+      title: Essays
+      permalink: /post/:title
+  - scope:
+      type: news
+    values:
+      title: News
+      permalink: /news/:title
 
-include:
-  - _pages
-
-
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
-
-sass:
-  sass_dir: _sass
-  style: compressed
-  
-remote_theme: artemsheludko/zolan
+plugins:
+  - jekyll-sitemap
